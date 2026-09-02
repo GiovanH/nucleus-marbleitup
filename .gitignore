@@ -1,0 +1,7 @@
+/nucleus-src/
+
+/.*/
+
+*.log
+
+/build-fixes/tools/
